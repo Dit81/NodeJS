@@ -7,6 +7,8 @@ http.createServer(function(request, response) {
   response.end();
 }).listen(port);
 
+// Start: node server.js
+
 /*
 var http = require("http");
 
